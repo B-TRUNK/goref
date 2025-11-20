@@ -1,0 +1,29 @@
+- go mod init hi
+
+- add your main.go file
+
+- cat go.mod
+
+- go install .
+
+- hi
+
+=============
+when adding packages:
+
+- go build .
+
+- go install .
+
+=============
+when using a remote package
+
+- go mod tidy
+=============
+
+clean cache:
+    go clean -modcache
+
+=============
+
+Run Tests: go test
