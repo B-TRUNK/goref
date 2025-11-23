@@ -1,3 +1,8 @@
+- export PATH=$PATH:$HOME/go/bin
+- ls ~/go/bin
+
+================================
+
 - go mod init hi
 
 - add your main.go file

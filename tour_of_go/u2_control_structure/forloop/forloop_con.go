@@ -1,3 +1,11 @@
+/*
+
+For continued
+
+The init and post statements are optional.
+
+*/
+
 package forloop
 
 import "fmt"

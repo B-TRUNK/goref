@@ -11,5 +11,6 @@ func main() {
 
 	forloop.ForLoop()
 	forloop.ForLoop_Con()
+	forloop.For_As_While()
 
 }
