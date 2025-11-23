@@ -1,6 +1,7 @@
 package main
 
 import (
+	"control/conditions"
 	"control/forloop"
 	"fmt"
 )
@@ -12,5 +13,7 @@ func main() {
 	forloop.ForLoop()
 	forloop.ForLoop_Con()
 	forloop.For_As_While()
+
+	conditions.SQRT()
 
 }
