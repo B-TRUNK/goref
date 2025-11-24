@@ -15,5 +15,13 @@ func main() {
 	forloop.For_As_While()
 
 	conditions.SQRT()
+	conditions.IF_SHORT()
+	conditions.IF_ELSE()
+
+	conditions.SWITCH_CASE()
+	conditions.SWITCH_VAL_ORDER()
+
+	conditions.DEFER()
+	conditions.DEFER_STACKING()
 
 }
