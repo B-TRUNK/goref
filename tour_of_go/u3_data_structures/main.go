@@ -20,5 +20,14 @@ func main() {
 	arrays.Slices_as_refs()
 	arrays.Slices_as_literals()
 	arrays.Slices_as_defaults()
+	arrays.Slices_len_cap()
+	arrays.Slices_nil()
+	arrays.Slices_with_make()
+	arrays.Slices_of_slices()
+	arrays.Slices_appending()
+
+	arrays.Range()
+	arrays.Range2()
+	//arrays.Pic()
 
 }
