@@ -36,5 +36,9 @@ func main() {
 
 	fmt.Println("Maps :")
 	maps.Maps()
+	maps.Map_Literal()
+	maps.Map_Literal2()
+	maps.Maps_Mutation()
+	maps.Maps_Ex()
 
 }
