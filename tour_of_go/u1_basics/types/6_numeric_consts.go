@@ -12,7 +12,7 @@ Try printing needInt(Big) too.
 
 */
 
-package constant
+package types
 
 import "fmt"
 
@@ -29,8 +29,16 @@ func needFloat(x float64) float64 {
 	return x * 0.1
 }
 
-func Num_Consts() {
+func Numeric_Constants() {
 	fmt.Println(needInt(Small))
 	fmt.Println(needFloat(Small))
 	fmt.Println(needFloat(Big))
 }
+
+/*
+
+21
+0.2
+1.2676506002282295e+29
+
+*/

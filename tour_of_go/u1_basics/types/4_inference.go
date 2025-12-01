@@ -19,13 +19,13 @@ Try changing the initial value of v in the example code and observe how its type
 
 */
 
-package inference
+package types
 
 import "fmt"
 
 func Inference() {
-
 	v := 42 // change me!
 	fmt.Printf("v is of type %T\n", v)
-
 }
+
+// v is of type int
