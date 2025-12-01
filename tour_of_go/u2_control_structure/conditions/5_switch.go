@@ -28,3 +28,5 @@ func SWITCH_CASE() {
 		fmt.Printf("%s.\n", os)
 	}
 }
+
+// Go runs on Linux.

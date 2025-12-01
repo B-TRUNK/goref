@@ -29,3 +29,5 @@ func ForLoop() {
 	}
 	fmt.Println(sum)
 }
+
+// 45

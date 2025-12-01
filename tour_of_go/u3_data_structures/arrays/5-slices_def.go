@@ -36,3 +36,11 @@ func Slices_as_defaults() {
 	s = s[1:]
 	fmt.Println(s)
 }
+
+/*
+
+[3 5 7]
+[3 5]
+[5]
+
+*/

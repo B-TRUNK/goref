@@ -23,3 +23,11 @@ func Pic(dx, dy int) [][]uint8 {
 func Slices_final_ex() {
 	pic.Show(Pic)
 }
+
+/*
+
+go: downloading golang.org/x/tour v0.0.0-20201207214521-004403599411
+# example
+./prog.go:6:1: missing return
+
+*/

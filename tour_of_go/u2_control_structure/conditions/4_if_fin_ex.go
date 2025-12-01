@@ -35,3 +35,5 @@ package conditions
 // func main() {
 // 	fmt.Println(Sqrt2(2))
 // }
+
+// ./prog.go:8:1: missing return

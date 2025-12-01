@@ -24,3 +24,5 @@ func Fibonacci() {
 		fmt.Println(f())
 	}
 }
+
+// ./prog.go:8:1: missing return

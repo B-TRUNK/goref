@@ -31,7 +31,6 @@ func Func_Closure() {
 }
 
 /*
-output:
 ​
 0 0
 1 -2

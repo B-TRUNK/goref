@@ -17,3 +17,5 @@ func ForLoop_Con() {
 	}
 	fmt.Println(sum)
 }
+
+// 1024

@@ -47,3 +47,12 @@ func Maps_Mutation() {
 	v, ok := m["Answer"]
 	fmt.Println("The value:", v, "Present?", ok)
 }
+
+/*
+
+The value: 42
+The value: 48
+The value: 0
+The value: 0 Present? false
+
+*/

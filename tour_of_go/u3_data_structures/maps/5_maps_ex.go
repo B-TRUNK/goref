@@ -21,3 +21,13 @@ func WordCount(s string) map[string]int {
 func Maps_Ex() {
 	wc.Test(WordCount)
 }
+
+/*
+
+FAIL
+ f("I am learning Go!") =
+  map[string]int{"x":1}
+ want:
+  map[string]int{"Go!":1, "I":1, "am":1, "learning":1}
+
+*/

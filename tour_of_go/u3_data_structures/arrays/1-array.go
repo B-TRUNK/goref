@@ -28,3 +28,11 @@ func Array() {
 	primes := [6]int{2, 3, 5, 7, 11, 13}
 	fmt.Println(primes)
 }
+
+/*
+
+Hello World
+[Hello World]
+[2 3 5 7 11 13]
+
+*/

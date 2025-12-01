@@ -26,3 +26,5 @@ func SWITCH_NO_CONDITION() {
 		fmt.Println("Good evening.")
 	}
 }
+
+// Good evening.

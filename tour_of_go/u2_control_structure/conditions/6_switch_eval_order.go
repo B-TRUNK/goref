@@ -38,3 +38,10 @@ func SWITCH_VAL_ORDER() {
 		fmt.Println("Too far away.")
 	}
 }
+
+/*
+
+When's Saturday?
+Too far away.
+
+*/

@@ -30,7 +30,6 @@ func Functions() {
 }
 
 /*
-output:
 
 13
 5

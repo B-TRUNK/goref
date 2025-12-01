@@ -29,3 +29,5 @@ func Slices() {
 	var s []int = primes[1:4]
 	fmt.Println(s)
 }
+
+/* [3 5 7] */

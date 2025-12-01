@@ -24,12 +24,15 @@ var (
 
 func STRUCTURES() {
 	fmt.Println(Vertex{1, 2})
+	/* {1 2} */
 
 	//strct_fields
 	v := Vertex{5, 6}
 	v.Y = 4
 	fmt.Println("X = ", v.X)
 	fmt.Println("Y = ", v.Y)
+
+	/* 4 */
 
 	/*
 
@@ -43,6 +46,7 @@ func STRUCTURES() {
 	p := &v
 	p.X = 1e9
 	fmt.Println("Pointer to Struct: ", v)
+	/* {1000000000 2} */
 
 	/*
 
@@ -58,5 +62,6 @@ func STRUCTURES() {
 
 	p = &Vertex{1, 2} // has type *Vertex
 	fmt.Println("Struct Literals", v1, p, v2, v3)
+	/* {1 2} &{1 2} {1 0} {0 0} */
 
 }

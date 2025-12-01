@@ -40,3 +40,9 @@ func PNT() {
 	*p = *p / 37   // divide j through the pointer
 	fmt.Println(j) // see the new value of j
 }
+
+/*
+42
+21
+73
+*/

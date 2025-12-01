@@ -17,3 +17,10 @@ func DEFER() {
 
 	fmt.Println("hello")
 }
+
+/*
+
+hello
+world
+
+*/

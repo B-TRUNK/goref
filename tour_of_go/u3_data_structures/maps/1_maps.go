@@ -27,3 +27,9 @@ func Maps() {
 	}
 	fmt.Println(m["Bell Labs"])
 }
+
+/*
+
+{40.68433 -74.39967}
+
+*/

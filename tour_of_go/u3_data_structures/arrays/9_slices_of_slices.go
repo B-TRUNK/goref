@@ -32,3 +32,11 @@ func Slices_of_slices() {
 		fmt.Printf("%s\n", strings.Join(board[i], " "))
 	}
 }
+
+/*
+
+X _ X
+O _ X
+_ _ O
+
+*/

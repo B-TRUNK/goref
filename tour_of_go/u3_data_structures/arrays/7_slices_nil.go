@@ -19,3 +19,10 @@ func Slices_nil() {
 		fmt.Println("nil!")
 	}
 }
+
+/*
+
+[] 0 0
+nil!
+
+*/

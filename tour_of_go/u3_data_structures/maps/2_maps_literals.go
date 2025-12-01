@@ -26,3 +26,5 @@ var map_literal = map[string]Pack{
 func Map_Literal() {
 	fmt.Println(map_literal)
 }
+
+// map[Bell Labs:{40.68433 -74.39967} Google:{37.42202 -122.08408}]

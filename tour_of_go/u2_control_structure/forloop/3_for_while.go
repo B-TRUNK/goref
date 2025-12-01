@@ -12,8 +12,10 @@ import "fmt"
 
 func For_As_While() {
 	sum := 1
-	for sum < 256 {
+	for sum < 1000 {
 		sum += sum
 	}
 	fmt.Println(sum)
 }
+
+// 1024

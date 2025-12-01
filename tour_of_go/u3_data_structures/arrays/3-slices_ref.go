@@ -31,3 +31,12 @@ func Slices_as_refs() {
 	fmt.Println(a, b)
 	fmt.Println(names)
 }
+
+/*
+
+[John Paul George Ringo]
+[John Paul] [Paul George]
+[John XXX] [XXX George]
+[John XXX George Ringo]
+
+*/
