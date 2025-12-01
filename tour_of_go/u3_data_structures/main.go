@@ -2,6 +2,7 @@ package main
 
 import (
 	"ds/arrays"
+	"ds/functions"
 	"ds/maps"
 	"ds/pointers"
 	"ds/strct"
@@ -40,5 +41,9 @@ func main() {
 	maps.Map_Literal2()
 	maps.Maps_Mutation()
 	maps.Maps_Ex()
+
+	functions.Functions()
+	functions.Func_Closure()
+	functions.Fibonacci()
 
 }
