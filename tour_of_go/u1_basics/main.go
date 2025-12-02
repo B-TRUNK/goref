@@ -3,6 +3,7 @@ package main
 import (
 	"bsq/functions"
 	"bsq/packages"
+	"bsq/testing"
 	"bsq/types"
 	"bsq/vars"
 	"fmt"
@@ -37,5 +38,7 @@ func main() {
 	types.Inference()
 	types.Constants()
 	types.Numeric_Constants()
+
+	fmt.Println(testing.ReverseRunes("Hello, World!"))
 
 }
